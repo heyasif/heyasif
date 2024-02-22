@@ -3,8 +3,6 @@
 </p>
 
 ![Header Image](https://github.com/heyasif/heyasif/blob/main/assets/github-header-image.png?raw=true)
-
-#### I’m a dedicated MERN Stack Developer with a strong commitment to building responsive and efficient web applications. With a keen
 <h1 align="center">Hi 👋, I'm Mohammad Asif</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
